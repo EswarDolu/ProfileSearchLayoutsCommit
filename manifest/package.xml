@@ -15,6 +15,13 @@
     </types>
     <types>
         <members>Account</members>
+        <members>pl2__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>AdminPSL</members>
+        <members>AdminPSL2</members>
+        <name>Profile</name>
     </types>
 </Package>
