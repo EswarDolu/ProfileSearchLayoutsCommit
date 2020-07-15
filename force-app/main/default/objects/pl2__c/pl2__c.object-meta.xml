@@ -179,6 +179,14 @@
         <fields>LAST_UPDATE</fields>
         <profileName>AdminPSL</profileName>
     </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>NAME</fields>
+        <fields>00N0o00000O0o3Y</fields>
+        <fields>OWNER.ALIAS</fields>
+        <fields>OWNER.FIRST_NAME</fields>
+        <fields>OWNER.LAST_NAME</fields>
+        <profileName>Chatter Free User</profileName>
+    </profileSearchLayouts>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
