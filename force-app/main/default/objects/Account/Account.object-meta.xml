@@ -245,5 +245,12 @@
         <searchResultsAdditionalFields>ACCOUNT.PHONE1</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
+    <profileSearchLayouts>
+		<fields>ACCOUNT.NAME</fields>
+		<fields>ACCOUNT.SITE</fields>
+		<fields>ACCOUNT.PHONE1</fields>
+		<fields>CORE.USERS.ALIAS</fields>
+		<profileName>System Administrator</profileName>
+	</profileSearchLayouts>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
