@@ -246,7 +246,6 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <profileSearchLayouts>
-		<fields>ACCOUNT.NAME</fields>
 		<fields>ACCOUNT.SITE</fields>
 		<fields>ACCOUNT.PHONE1</fields>
 		<fields>CORE.USERS.ALIAS</fields>
